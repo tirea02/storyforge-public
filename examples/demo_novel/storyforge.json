@@ -31,9 +31,15 @@
   ],
   "episodes": [
     {
+      "no": 0,
+      "file": "프롤로그_수정.txt",
+      "title": "등대 일지",
+      "status": "원고 확정"
+    },
+    {
       "no": 1,
       "file": "01화_수정.txt",
-      "title": "백열네 칸",
+      "title": "세 가지 규칙",
       "status": "원고 확정"
     }
   ],
