@@ -6,3 +6,7 @@ reviews/*_rebuttal_prompt.md
 codex/결과/*_prompt.md
 *_업로드용.txt
 .env
+# 모바일 페이지 생성물(db 동기화 파일·빌드 상태)
+_mobile/db_sync/
+_mobile/build_state.json
+_mobile/
