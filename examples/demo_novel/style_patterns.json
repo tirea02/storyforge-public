@@ -1,0 +1,17 @@
+{
+  "_comment": "이 작품 전용 패턴과 기준선. 공통 패턴(defaults/style_patterns_common.json) 위에 덮어쓴다.",
+  "baseline": {
+    "_source": "작가 문체 기준선(이전 작품 퇴고본에서 잰 값) — 이 작품 퇴고본이 쌓이면 다시 잰다.",
+    "narration_avg_len": 30.0,
+    "narration_avg_len_warn": 40.0,
+    "multi_sentence_paragraphs_warn": 4,
+    "short_sentences": {
+      "max_len": 12,
+      "window": 5,
+      "min_short": 4,
+      "limit": 1
+    }
+  },
+  "patterns": [],
+  "spacing_suspects": []
+}

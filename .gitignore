@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+# 작품(원고·설정)은 작가 자산: 도구 저장소에 넣지 않는다. 작품별 비공개 저장소로 관리.
+novels/
+*_업로드용.txt

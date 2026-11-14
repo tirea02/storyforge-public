@@ -1,0 +1,8 @@
+# 생성물(원본 md에서 다시 만들 수 있음)
+dashboard.html
+AGENTS.md
+reviews/*_prompt.md
+reviews/*_rebuttal_prompt.md
+codex/결과/*_prompt.md
+*_업로드용.txt
+.env

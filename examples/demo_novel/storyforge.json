@@ -1,0 +1,60 @@
+{
+  "title": "등대지기 수습일지",
+  "platform": "노벨피아",
+  "pov": "1인칭",
+  "length": {
+    "basis": "공백 제외",
+    "platform_min": 3000,
+    "target_min": 3500,
+    "target_max": 4000,
+    "muble_ratio": 0.914
+  },
+  "notation": {
+    "pairs": {
+      "대사": [
+        "\"",
+        "\""
+      ],
+      "속말": [
+        "'",
+        "'"
+      ]
+    },
+    "line_prefixes": [],
+    "ellipsis": "……",
+    "scene_break": "＊＊＊",
+    "breath_blank_lines": 5
+  },
+  "patterns": [
+    "common",
+    "style_patterns.json"
+  ],
+  "episodes": [
+    {
+      "no": 1,
+      "file": "01화_수정.txt",
+      "title": "백열네 칸",
+      "status": "원고 확정"
+    }
+  ],
+  "memory_files": [
+    "설정집.md",
+    "회차별_기록.md",
+    "설정_검증_목록.md",
+    "memory/open_loops.md",
+    "memory/timeline.md",
+    "memory/characters.md"
+  ],
+  "entities": "memory/entities.json",
+  "characters": "memory/characters.md",
+  "review_rules": "README.md#검토 규칙",
+  "agents_extra": [
+    {
+      "title": "공통 작업 규칙(작가)",
+      "file": "../../defaults/작가_작업규칙.md"
+    }
+  ],
+  "_notes": {
+    "muble_ratio": "작가의 이전 작품 실측값 — 이 작품 실측이 나오면 보정."
+  }
+}
