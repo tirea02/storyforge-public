@@ -60,9 +60,13 @@ AI가 '이 장면은 앞의 설정과 맞지 않는다'고 판단하면 **실제
 
 **화면 예시** (데모 작품을 사용한 화면)
 
-<img src="images/card_review.png" alt="검토 카드: 문제 설명과 원문, 수정안 비교" width="260" />
-<img src="images/card_pick.png" alt="수정안 A를 선택한 화면" width="260" />
-<img src="images/manuscript.png" alt="원고를 읽고 편집하는 화면" width="260" />
+<table>
+<tr>
+<td width="33%"><img src="images/card_review.png" alt="검토 카드: 문제 설명과 원문, 수정안 비교" width="100%" /></td>
+<td width="33%"><img src="images/card_pick.png" alt="수정안 A를 선택한 화면" width="100%" /></td>
+<td width="33%"><img src="images/manuscript.png" alt="원고를 읽고 편집하는 화면" width="100%" /></td>
+</tr>
+</table>
 
 *왼쪽부터 오류를 발견하면 보여주는 검토 카드, 수정안을 선택하는 화면, 원고를 읽는 화면.*
 
